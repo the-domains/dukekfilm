@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-04T02:47:32.563Z'
-dateModified: '2015-11-04T02:47:25.365Z'
+datePublished: '2015-11-04T02:50:12.704Z'
+dateModified: '2015-11-04T02:50:10.813Z'
 title: '||Surf Rocky Point||'
 sourcePath: _posts/2015-11-04-orsurf-rocky-pointor.md
 published: true
