@@ -1,6 +1,6 @@
 name: DukeKFILM
 favicon: null
-layout_spectrum: 0.2489055630285293
+layout_spectrum: 0.76143
 typography_spectrum: 0.9950089217163622
 cta:
   domain: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#040404'
+    - '#fcfcfc'
+    - '#6b6b6b'
+    - '#cecece'
+    - '#ababab'
   brandStrength: 0.125
   lightness: 0.20337345264852047
   saturation: 0.3553220776375383
