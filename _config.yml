@@ -21,7 +21,7 @@ color:
     - '#6b6b6b'
     - '#cecece'
     - '#ababab'
-  brandStrength: 1
+  brandStrength: 0.6875
   lightness: 0.375
   saturation: 0.75
   rhythmicContrast: 1
