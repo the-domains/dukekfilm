@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[DukeKFILM]]></title>
         <description><![CDATA[DukeKFILM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dukekfilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 02:30:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 Nov 2015 02:33:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dukekfilm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[||Surf Rocky Point||]]></title>
             <description><![CDATA[<article><h1>||Surf Rocky Point||</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e46b29d3-44b0-4442-8739-061e91278434.jpg"></article>]]></description>
-            <link>undefinedda79a5b0-de65-470b-84a0-420f8299f5a3/index.html</link>
+            <link>https://thegrid.ai/dukekfilm/da79a5b0-de65-470b-84a0-420f8299f5a3/index.html</link>
             <guid isPermaLink="false">da79a5b0-de65-470b-84a0-420f8299f5a3</guid>
             <pubDate>Wed, 04 Nov 2015 02:30:09 GMT</pubDate>
         </item>
