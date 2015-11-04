@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-04T02:37:59.295Z'
-dateModified: '2015-11-04T02:37:47.754Z'
+datePublished: '2015-11-04T03:10:10.153Z'
+dateModified: '2015-11-04T03:10:05.083Z'
 title: '||Skate Hawaii Kai||'
+sourcePath: _posts/2015-11-04-orskate-hawaii-kaior.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-04-orskate-hawaii-kaior.md
-published: true
 url: orskate-hawaii-kaior/index.html
 _type: Article
 
