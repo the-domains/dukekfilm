@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-05T22:54:46.995Z'
-dateModified: '2015-11-05T22:54:22.263Z'
+datePublished: '2015-11-05T23:21:27.525Z'
+dateModified: '2015-11-05T23:21:21.638Z'
 title: '||Life Well Liven||'
+sourcePath: _posts/2015-11-05-orlife-well-livenor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-05-orlife-well-livenor.md
-published: true
 url: orlife-well-livenor/index.html
 _type: Article
 
