@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-04T03:48:26.839Z'
-dateModified: '2015-11-04T03:48:15.201Z'
+datePublished: '2015-11-05T23:22:09.569Z'
+dateModified: '2015-11-05T23:22:06.120Z'
 title: '||Double Expo||'
+sourcePath: _posts/2015-11-04-ordouble-expoor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-04-ordouble-expoor.md
-published: true
 url: ordouble-expoor/index.html
 _type: Article
 
