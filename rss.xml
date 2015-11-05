@@ -4,8 +4,22 @@
         <description><![CDATA[DukeKFILM]]></description>
         <link>https://thegrid.ai/dukekfilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 22:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 22:56:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dukekfilm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[||Life Well Liven||]]></title>
+            <description><![CDATA[<article><h1>||Life Well Liven||</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9cbb70-af7e-4c99-a0c9-9c0d91411593.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dukekfilm/orlife-well-livenor/index.html</link>
+            <guid isPermaLink="false">ade2a901-1d3d-4557-bc8a-62be02e07ed0</guid>
+            <pubDate>Thu, 05 Nov 2015 22:54:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[||Life Lived||]]></title>
+            <description><![CDATA[<article><h1>||Life Lived||</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ce86eed-b993-4cca-a40c-20605021cca7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dukekfilm/orlife-livedor/index.html</link>
+            <guid isPermaLink="false">9a56ee48-69b0-4943-a515-8a197abb18f4</guid>
+            <pubDate>Thu, 05 Nov 2015 22:50:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[||Double Expo||]]></title>
             <description><![CDATA[<article><h1>||Double Expo||</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b28e27d-d828-4e1c-b16a-90cba8f30ad1.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/dukekfilm/orsurf-rocky-pointor/index.html</link>
             <guid isPermaLink="false">6282022e-d326-4caa-a431-1d9e047dd9bd</guid>
             <pubDate>Wed, 04 Nov 2015 02:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[||Griff Skates||]]></title>
-            <description><![CDATA[<article><h1>||Griff Skates||</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ab9d34f-eb18-4385-90a8-f4ab2805947d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dukekfilm/eb6faf3c-b3f1-4e7f-ad5e-6e6cf8d33717/index.html</link>
-            <guid isPermaLink="false">eb6faf3c-b3f1-4e7f-ad5e-6e6cf8d33717</guid>
-            <pubDate>Thu, 05 Nov 2015 22:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[||Skate Hawaii Kai||]]></title>
-            <description><![CDATA[<article><h1>||Skate Hawaii Kai||</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a4f6149-2134-4e11-9300-79c39373adf2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dukekfilm/orskate-hawaii-kaior/index.html</link>
-            <guid isPermaLink="false">c416a886-2806-47e2-9997-aeff31c6afd7</guid>
-            <pubDate>Wed, 04 Nov 2015 03:10:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
